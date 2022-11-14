@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LantzVercher
+- 👋 Hi, I’m @JustLantz
 - 👀 I’m intersested in robotics;
 I am currently working on finishing a prototype robot to show the world;
 
